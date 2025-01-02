@@ -18,14 +18,14 @@ No additional dependencies required! Just make sure you have Python 3.6+ install
 ```bash
 # Clone or download the repository
 # Navigate to the project directory
-python3 weather_app.py
+python weather_app.py
 ```
 
 ## Usage
 
 1. Run the application:
    ```bash
-   python3 weather_app.py
+   python weather_app.py
    ```
 
 2. Enter a city name when prompted
@@ -60,6 +60,4 @@ weather_app/
 
 Feel free to fork the project and submit pull requests for any improvements!
 
-## License
 
-This project is open source and available under the MIT License.
