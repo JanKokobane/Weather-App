@@ -1,4 +1,4 @@
-# Simple Weather App
+# Weather App
 
 A lightweight Python command-line weather application that displays simulated weather information for any city.
 
@@ -35,10 +35,10 @@ python weather_app.py
 ## Example Output
 
 ```
-Simple Weather App
+Weather App
 ==================
 
-Enter city name (or 'quit' to exit): London
+Enter city name: London
 
 Weather for London
 ====================
@@ -48,12 +48,6 @@ Weather for London
 💨 Wind Speed: 14 km/h
 ```
 
-## Project Structure
-
-```
-weather_app/
-├── README.md        # Project documentation
-└── weather_app.py   # Main application file
 ```
 
 ## Contributing
